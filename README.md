@@ -1,4 +1,3 @@
-# caro-game
 
 ## Project setup
 ```
